@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi! This is Junkai Luo's gomepage!"
+title: "Hi! This is Junkai Luo's homepage!"
 author_profile: true
 redirect_from: 
   - /about/
