@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Junkai Luo's page"
 title_separator          : "-"
 name                     : &name "Junkai Luo"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Junkai Luo"
   pronouns         : "he/him" 
- # bio              : "Short biography for the left-hand sidebar"
+  bio              : "Junior Student from Sichuan University"
   location         : "Chengdu, China"
   employer         : "Sichuan University"
   uri              : # URL
