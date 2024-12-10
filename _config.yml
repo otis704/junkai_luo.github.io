@@ -22,11 +22,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Junkai Luo"
+  pronouns         : "he/him" 
+ # bio              : "Short biography for the left-hand sidebar"
+  location         : "Chengdu, China"
+  employer         : "Sichuan University"
   uri              : # URL
   email            : "luojunkai@stu.scu.edu.cn" 
 
