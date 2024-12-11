@@ -7,5 +7,5 @@ redirect_from:
   - /about.html
 ---
 
-I'm Junkai LUo. I'm currently a third-year student from Sichuan University, majoring in cyber security. I'm thrilled about deep learning especially NLP. You can contact me at [Email](mailto:luojunkai@stu.scu.edu.cn)
+I'm Junkai Luo. I'm currently a third-year student from Sichuan University, majoring in cyber security. I'm thrilled about deep learning especially NLP. You can contact me at [Email](mailto:luojunkai@stu.scu.edu.cn)
 
