@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm **Junkai Luo**! I am an M.Sc. student in **Computational Science and Engineering at McMaster University**, affiliated with the **DeGroote School of Business** and supervised by **Dr. Nooshin Salari**. I received my bachelor's degree in Cyberspace Security from **Sichuan University**.
+Hi, I'm **Junkai Luo**! I am an M.Sc. student in **Computational Science and Engineering at McMaster University**, affiliated with the **DeGroote School of Business** and supervised by [**Dr. Nooshin Salari**](https://ddoor.ca/) and [**Dr. Lingling Shi**](https://experts.mcmaster.ca/people/shil43). I received my bachelor's degree in Cyberspace Security from **Sichuan University**.
 
 My research interests lie at the intersection of **machine learning and operations research**. I am particularly interested in combining reinforcement learning and optimization to support decision-making under uncertainty, with applications in resource allocation and operations management. My previous research has explored natural language processing and reinforcement learning.
 
@@ -19,6 +19,19 @@ My research interests lie at the intersection of **machine learning and operatio
 - **Data-driven optimization:** integrating predictive models with optimization to improve decisions under uncertainty.
 - **Operations for social good:** exploring volunteer management and resource allocation in nonprofit organizations, with attention to uncertain attendance and long-term engagement.
 
+## Publications
+
+{% assign papers = site.publications | sort: "date" | reverse %}
+{% for paper in papers %}
+<div style="margin-bottom: 1.25em; line-height: 1.6;">
+  <div><strong>{{ paper.title | escape }}</strong></div>
+  <div style="font-size: 0.9em;">
+    {% if paper.authors and paper.authors != empty %}{{ paper.authors | join: ", " | escape }}{% endif %}
+    {% if paper.venue and paper.venue != empty %}({{ paper.venue | escape }}){% endif %}
+  </div>
+</div>
+{% endfor %}
+
 ## Education
 
 **McMaster University**  
@@ -26,7 +39,7 @@ M.Sc. in Computational Science and Engineering · 2026–present
 DeGroote School of Business
 
 **Sichuan University**  
-Bachelor's degree in Cyberspace Security · 2026
+Bachelor's degree in Cyberspace Security · 2022-2026
 
 ## Honours and Awards
 
