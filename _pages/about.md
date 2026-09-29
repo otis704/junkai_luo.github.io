@@ -44,7 +44,8 @@ Bachelor's degree in Cyberspace Security · 2022-2026
 
 - **Outstanding Undergraduate Award**, Sichuan Province (Top 3% in the province) — 2026
 - **“Top 100 Students of the Year”**, Sichuan University (Top 0.3% in the university) — 2026
-- **National Scholarship**, Ministry of Education of China (Top 0.2% in China) — 2019, 2024
+- **National Scholarship**, Ministry of Education of China (Top 0.2% in China) — 2024
+- **BYD Scholarship**, BYD AUTO INDUSTRY CO., LTD. (1 out of 180) — 2025
 
 ## Academic Service
 
