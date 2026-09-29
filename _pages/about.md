@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm **Junkai Luo**! I am an M.Sc. student in **Computational Science and Engineering at McMaster University**, affiliated with the **DeGroote School of Business** and supervised by **Dr. Nooshin Salari** and **Dr. Lingling Shi**. I received my bachelor's degree in Cyberspace Security from **Sichuan University**.
+Hi, I'm **Junkai Luo**! I am an M.Sc. student in **Computational Science and Engineering at McMaster University**, affiliated with the **DeGroote School of Business** and supervised by **Dr. Nooshin Salari**. I received my bachelor's degree in Cyberspace Security from **Sichuan University**.
 
-My research interests lie at the intersection of **machine learning and operations research**. I am particularly interested in combining reinforcement learning and optimization to support decision-making under uncertainty, with applications in resource allocation and operations management. My previous research has explored large language models and reinforcement learning.
+My research interests lie at the intersection of **machine learning and operations research**. I am particularly interested in combining reinforcement learning and optimization to support decision-making under uncertainty, with applications in resource allocation and operations management. My previous research has explored natural language processing and reinforcement learning.
 
 [Email](mailto:luo109@mcmaster.ca) · [Google Scholar](https://scholar.google.com/citations?user=bfJHJWUAAAAJ) · [GitHub](https://github.com/otis704)
 
@@ -28,9 +28,16 @@ DeGroote School of Business
 **Sichuan University**  
 Bachelor's degree in Cyberspace Security · 2026
 
+## Honours and Awards
+
+- **Outstanding Undergraduate Award**, Sichuan Province (Top 3% in the province) — 2026
+- **“Top 100 Students of the Year”**, Sichuan University (Top 0.3% in the university) — 2026
+- **National Scholarship**, Ministry of Education of China (Top 0.2% in China) — 2019, 2024
+
 ## Academic Service
 
-I serve on the **McMaster CSE Seminar Committee**, helping organize research talks for the Computational Science and Engineering community.
+- **Teaching Assistant**, DeGroote School of Business, McMaster University — 2DA3: *Decision Making with Analytics*.
+- **Seminar Committee Member**, McMaster Computational Science and Engineering — helping organize research talks for the CSE community.
 
 ## Get in Touch
 
