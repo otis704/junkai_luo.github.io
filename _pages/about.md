@@ -25,7 +25,7 @@ My research interests lie at the intersection of **machine learning and operatio
 <div style="margin-bottom: 1.25em; line-height: 1.6;">
   <div><strong>{{ paper.title | escape }}</strong></div>
   <div style="font-size: 0.9em;">
-    {% if paper.authors and paper.authors != empty %}{{ paper.authors | join: ", " | escape }}{% endif %}
+    {% if paper.authors and paper.authors != empty %}{{ paper.authors | join: ", " | markdownify | remove: '<p>' | remove: '</p>' }}{% endif %}
     {% if paper.venue and paper.venue != empty %}({{ paper.venue | escape }}){% endif %}
   </div>
 </div>
