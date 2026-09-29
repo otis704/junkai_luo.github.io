@@ -1,5 +1,5 @@
 --- layout: archive title: "Publications" permalink: /publications/ author_profile: true --- {% assign papers = site.publications | sort: "date" | reverse %}
 {% for paper in papers %}
 {{ paper.title | escape }}
-{% if paper.authors and paper.authors != empty %} {{ paper.authors | join: ", " | escape }} {% endif %} {% if paper.venue and paper.venue != empty %} ({{ paper.venue | escape }}) {% endif %}
+{% if paper.authors and paper.authors != empty %} {{ paper.authors | join: ", " | markdownify | remove: '<p>' | remove: '</p>' }} {% endif %} {% if paper.venue and paper.venue != empty %} ({{ paper.venue | escape }}) {% endif %}
 {% endfor %}
