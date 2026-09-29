@@ -15,9 +15,8 @@ My research interests lie at the intersection of **machine learning and operatio
 
 ## Research Interests
 
-- **Reinforcement learning:** learning effective policies for sequential decision-making, including online fine-tuning of Decision Transformers.
+- **Reinforcement learning:** learning effective policies for sequential decision-making, including deep reinforcement learning.
 - **Data-driven optimization:** integrating predictive models with optimization to improve decisions under uncertainty.
-- **Operations for social good:** exploring volunteer management and resource allocation in nonprofit organizations, with attention to uncertain attendance and long-term engagement.
 
 ## Publications
 
